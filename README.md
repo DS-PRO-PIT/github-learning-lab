@@ -1,5 +1,5 @@
 # github-learning-lab
-GitHub Learning Lab repositories
+GitHub Learning Lab repositories from [https://lab.github.com/](https://lab.github.com/)
 
 # Оглавление
 1. [github-slideshow](DS-PRO-PIT/github-slideshow)  
